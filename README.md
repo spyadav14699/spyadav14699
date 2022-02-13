@@ -10,6 +10,10 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 I also like traveling playing flute and cooking.
 
+ 📫 How to reach me:-
+ 
+- Mobile Number : +91 7827594143
+Email Id : syadav14699@gmail.com
 <!-- 🔭 I’m currently working on React and DSA. -->
 
 - 🌱 I’m currently learning MERN Stack
@@ -17,7 +21,7 @@ I also like traveling playing flute and cooking.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about  -->
 
-- 📫 How to reach me: Portfolio ( spyadav14699.github.io/portfolio )
+<!-- - 📫 How to reach me: Portfolio ( spyadav14699.github.io/portfolio ) -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
                                       
