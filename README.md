@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-◽ About me 🧑:
+# About me 🧑:
 
 I am Surya Pratap Yadav (he/him) from Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web, android and ios applications.
 
