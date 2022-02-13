@@ -13,7 +13,7 @@ I also like traveling playing flute and cooking.
  📫 How to reach me:-
  
 - Mobile Number : +91 7827594143
-Email Id : syadav14699@gmail.com
+- Email Id : syadav14699@gmail.com
 <!-- 🔭 I’m currently working on React and DSA. -->
 
 - 🌱 I’m currently learning MERN Stack
