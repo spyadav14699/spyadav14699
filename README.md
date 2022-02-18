@@ -14,6 +14,7 @@ I also like traveling playing flute and cooking.
  
 - Mobile Number : +91 7827594143
 - Email Id : syadav14699@gmail.com
+- Portfolio : <a href="https://www.instagram.com/spyadav_g/" target="blank">Click here!</a>
 <!-- 🔭 I’m currently working on React and DSA. -->
 
 - 🌱 I’m currently learning MERN Stack
@@ -31,7 +32,7 @@ I also like traveling playing flute and cooking.
 <p align="center">
 <a href="https://twitter.com/SPYADAVg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surya" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.linkedin.com/in/surya-yadav-924b311a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://www.instagram.com/spyadav_g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surya" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+
 </p>
 CATching bugs in code...
                               
