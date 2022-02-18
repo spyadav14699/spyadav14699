@@ -22,6 +22,34 @@ I also like traveling playing flute and cooking.
 <!-- - 💬 Ask me about  -->
 
 <!-- - 📫 How to reach me: Portfolio ( spyadav14699.github.io/portfolio ) -->
+
+
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=spyadav14699" alt="meeramendhe" /> </h3>
+
+
+<h2 align="left">🤝Let's Connect</h2>
+<p align="center">
+<a href="https://twitter.com/SPYADAVg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surya" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.linkedin.com/in/surya-yadav-924b311a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.instagram.com/spyadav_g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surya" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
+CATching bugs in code...
+                              
+       \`*-.    [me]              
+        )  _`-.                 
+       .  : `. .                
+       : _   '  \               
+       ; ` _.   `-._          
+       `-.-'          `-.       
+         ;       `       `.     
+         :.       .        \    
+         . \  .   :   .-'   .   
+         '  `+.;  ;  '      :   
+         :  '  |    ;       ;-. 
+         ; '   : :`-:     _.`* ;
+[bug] .' /  .' ; .`- +'  `' 
+      `-   `-  `-'
+ -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
                                       
