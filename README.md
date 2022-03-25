@@ -2,6 +2,8 @@
 
 # About me 🧑:
 
+<h1 align="center">Hi , I'm Surya Pratap Yadav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 I am Surya Pratap Yadav (he/him) from Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web, android and ios applications.
 
 I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, Node, Mongodb, Express. I am good in data structure and algorithms.
@@ -25,7 +27,7 @@ I also like traveling playing flute and cooking.
 <!-- - 📫 How to reach me: Portfolio ( spyadav14699.github.io/portfolio ) -->
 
 
-<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=spyadav14699" alt="meeramendhe" /> </h3>
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=spyadav14699" alt="Surya Pratap" /> </h3>
 
 
 <h2 align="left">🤝Let's Connect</h2>
