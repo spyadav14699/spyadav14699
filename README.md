@@ -17,6 +17,7 @@ I also like traveling playing flute and cooking.
 - Mobile Number : +91 7827594143
 - Email Id : syadav14699@gmail.com
 - Portfolio : <a href="spyadav14699.github.io/portfolio" target="blank">Click here!</a>
+- Portfolio ( spyadav14699.github.io/portfolio )
 <!-- 🔭 I’m currently working on React and DSA. -->
 
 - 🌱 I’m currently learning MERN Stack
