@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi , I'm Surya Pratap Yadav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-From Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web, android and ios applications.
+From Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web, android and ios applications.
 
 I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, Node, Mongodb, Express. I am good in data structure and algorithms.
 
