@@ -8,7 +8,7 @@ From Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused
 
 I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, Node, Mongodb, Express. I am good in data structure and algorithms.
 
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.     
 
 I also like traveling playing flute and cooking.
 
