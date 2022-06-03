@@ -40,7 +40,7 @@ I also like traveling playing flute and cooking.
 
 </p>
 
-<h1 align="center">My Github Stats : <img src="https://c.tenor.com/iol6pdgnlasAAAAM/hoodie-girl-cool.gif" height="50px" width="50px"/> </h1>
+<h1 align="center">My Github Stats : <img src="https://s3.favim.com/orig/140906/cute-dylan-ox27brien-pretty-sexy-Favim.com-2051750.gif" height="50px" width="50px"/> </h1>
 
 
     
