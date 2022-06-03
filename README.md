@@ -39,6 +39,14 @@ I also like traveling playing flute and cooking.
 <a href="https://www.linkedin.com/in/surya-yadav-924b311a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
 </p>
+
+<h1 align="center">My Github Stats : <img src="https://c.tenor.com/iol6pdgnlasAAAAM/hoodie-girl-cool.gif" height="50px" width="50px"/> </h1>
+
+
+    
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=spyadav14699) 
 CATching bugs in code...
                               
        \`*-.    [me]              
