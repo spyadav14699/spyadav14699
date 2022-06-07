@@ -46,7 +46,7 @@ I also like traveling playing flute and cooking.
     
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=spyadav14699) 
+<a href="https://github.com/spyadav14699-cmd/github-readme-activity-graph"><img alt="Surya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=spyadav14699&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 CATching bugs in code...
                               
        \`*-.    [me]              
